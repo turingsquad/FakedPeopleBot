@@ -4,4 +4,6 @@ from bot.bot_client import get_bot
 config = Config()
 
 bot = get_bot()
-bot.run(config.token)
+
+while True:
+ bot.run(config.token)
