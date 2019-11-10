@@ -5,5 +5,11 @@ config = Config()
 
 bot = get_bot()
 
+
+@bot.event
+async def on_ready():
+ print("Bot online")
+
+
 while True:
  bot.run(config.token)
