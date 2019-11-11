@@ -1,4 +1,5 @@
-from bot.functions import *
+from faker import Faker
+import random
 import unittest
 
 
