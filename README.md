@@ -1,4 +1,5 @@
 # FakedPeopleBot
+[![Build Status](https://travis-ci.org/turingsquad/FakedPeopleBot.svg?branch=master)](https://travis-ci.org/turingsquad/FakedPeopleBot)
 
 This program is a group study project for ITMO University. </br> It allows to generate fake people's data. </br>
 
