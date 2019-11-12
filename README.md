@@ -43,7 +43,7 @@ If you want to change the preffix, you can simply correct it and pass it as a pa
 ## Maintainers:
 Many thanks to all those who participated in the development of the bot:
 
-1. Alexander Kosturenko - [Arthasasyan](https://github.com/Arthasasyan)
+1. Alexander Kostyurenko - [Arthasasyan](https://github.com/Arthasasyan)
 2. Ilya Elikov - [ilyashn](https://github.com/ilyashn)
 3. Ekaterina Ladokhina - [jnannni](https://github.com/jnannni)
 4. Alina Terekhova - [atereh](https://github.com/atereh)
